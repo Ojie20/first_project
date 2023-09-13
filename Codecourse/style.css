@@ -1,0 +1,16 @@
+footer{
+    background-color: #1d2f36;
+}
+.table-sect{
+    background-color: #233540;
+}
+
+.lightblue-card{
+    background-color: #ebf3f6;
+     color: #a7c0cc;
+}
+
+.table-sect,td{
+    color: #3d5562;
+    font-weight: bold;
+}
